@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environments
+.env
+venv/
+env/
+
+# Project specific
+results.md
+results.csv
